@@ -1,5 +1,6 @@
 TARGET_DECK: Adv Management::0 Exams
 
+
 ---
 
 START_CARD
@@ -17,7 +18,7 @@ Back:
 >> $\text{Cov}(\theta_{i},\theta_{j})=$ the covariance of the parameters $\theta_i$ and $\theta_j$
 >> $I=$ the [[maximum likelihood estimation confidence|Fisher information matrix]]
 >> $I_{ij}=$ an element of the Fisher information matrix
-
+<!--ID: 1736591329948-->
 END_CARD
 
 
@@ -39,7 +40,7 @@ Back:
 >> $\text{Var}(\hat\theta)=$ the variance for the parameter in question ([[maximum likelihood estimation confidence#Information and Covariance Matrices]])
 >> $Z_{\alpha/2}=$ the standard normal statistic (taken from lookup tables generally or calculated) (NOTE: values placed here might ONLY work for gaussians? unsure)
 >> $\gamma=$ confidence that the true $\theta$ is in that range
-
+<!--ID: 1736591330010-->
 END_CARD
 
 
@@ -54,7 +55,7 @@ Back:
 - $M$ is the expected number of failures from $0\to t$
 - For an exponential distribution, the hazard rate is constant. $\lambda$ being the chance per $t$ that failure occurs.
 - Hence we can trivially state that the expected number of failures is simply $M(t)=t\:\lambda$
-
+<!--ID: 1736591330048-->
 END_CARD
 
 
@@ -68,7 +69,7 @@ State the equation for integration by parts
 
 Back: 
 $$ \int u \dot{v} \cdot dx = uv - \int \dot{u}v \cdot dx $$
-
+<!--ID: 1736591330087-->
 END_CARD
 
 
@@ -101,7 +102,7 @@ Back:
 >> $P(x)=$ the [[probability density function|PDF]] defining the variation of $x$
 >> $f(x)=$ our fitness function
 >> ![[Pasted image 20250107161832.png]]
-
+<!--ID: 1736591330125-->
 END_CARD
 
 
