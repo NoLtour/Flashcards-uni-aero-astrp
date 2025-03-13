@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 4/Adv Management/1 Project management/L21.md",
+                "file": "Year 4/Spacecraft Instra/2 - Instrument Resolution/L15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L21"
+              "title": "L15"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -152,24 +153,35 @@
   },
   "active": "4e936da67470adb2",
   "lastOpenFiles": [
+    "Images/Pasted image 20250313180519.png",
+    "Images/Pasted image 20250313180328.png",
+    "Images/Pasted image 20250313175937.png",
+    "Images/Pasted image 20250313175852.png",
+    "Images/Pasted image 20250313175808.png",
+    "Images/Pasted image 20250313175344.png",
+    "Images/Pasted image 20250313175052.png",
+    "Images/Pasted image 20250313174239.png",
+    "Images/Pasted image 20250313174141.png",
+    "Year 4/Spacecraft Instra/2 - Instrument Resolution/L14.md",
+    "Year 4/Spacecraft Instra/2 - Instrument Resolution/L15.md",
+    "Images/Pasted image 20250313171301.png",
+    "Images/Pasted image 20250313171106.png",
+    "Year 4/Spacecraft Instra/2 - Instrument Resolution/L13.md",
+    "Year 4/Spacecraft Instra/2 - Instrument Resolution/L8.md",
+    "Year 4/Spacecraft Instra/2 - Instrument Resolution/L9.md",
+    "Year 4/Spacecraft Instra/2 - Instrument Resolution/L12.md",
+    "Year 4/Spacecraft Instra/2 - Instrument Resolution/L11.md",
+    "Year 4/Spacecraft Instra/2 - Instrument Resolution/L10.md",
+    "Year 4/Adv Management/1 Project management/L21.md",
+    "Year 4/Spacecraft Instra/2 - Instrument Resolution",
+    "Year 4/Spacecraft Instra",
     "Year 4/Adv Management/1 Project management/L20.md",
     "Year 4/Adv Management/1 Project management/L19.md",
     "Year 4/Adv Management/1 Project management/L17.md",
     "Year 4/Adv Management/1 Project management/L16.md",
     "Year 4/Adv Management/0 Exams/T3.md",
     "Year 4/Adv Management/0 Exams/LEx.md",
-    "Images/Pasted image 20250107161832.png",
-    "Images/Pasted image 20250107161624.png",
-    "Images/Pasted image 20250101183636.png",
-    "Images/Pasted image 20250101183617.png",
-    "Year 4/Adv Management/1 Project management/L21.md",
     "Year 4/Adv Management/0 Exams",
-    "Images/Pasted image 20241227135543.png",
-    "Images/Pasted image 20241224113627.png",
-    "Images/Pasted image 20241224105302.png",
-    "Images/Pasted image 20241224105220.png",
-    "Images/Pasted image 20241224105024.png",
-    "Images/Pasted image 20241224105022.png",
     "Year 4/Adv Management/1 Project management",
     "Year 3/Aircraft Structures/5 Fatigue/Equations.md",
     "Year 4/Adv Management",
@@ -183,20 +195,9 @@
     "Year 3/Aircraft Structures/4 Beam as wing/3.1.md",
     "Year 3/Aircraft Structures/4 Beam as wing/3.2.md",
     "Year 3/Aircraft Structures/4 Beam as wing/3.3.md",
-    "Year 3/Aircraft Structures/4 Beam as wing/3.4.md",
-    "Year 3/Aircraft Structures/5 Fatigue/5.1.md",
-    "Year 2/Flight mechanics/3 Flight Dynamics/3.8ish Spiraly shite.md",
     "Year 3/Aircraft Structures/6 Dynamic system",
-    "Year 2/Flight mechanics/3 Flight Dynamics/3.3 Longitudinal model.md",
-    "Year 2/Flight mechanics/3 Flight Dynamics/3.2 Decoupled linear model.md",
-    "Year 2/Flight mechanics/3 Flight Dynamics/3.1 Rigid aircraft model Six degrees of freedom.md",
-    "Year 2/Flight mechanics/3 Flight Dynamics/3.0 Derivative meanings.md",
-    "Year 2/Flight mechanics/2 Trim and Static Stability/2.4 Lateral-Directional Stability.md",
-    "Year 2/Flight mechanics/2 Trim and Static Stability/2.3 Determining Margins from flight tests.md",
     "Year 3/Aircraft Structures/Fatigue",
     "Year 3/Aircraft Structures/5 Fatigue",
-    "Year 3/Aircraft Structures/4 Beam as wing",
-    "Year 3/Aircraft Structures/2,3 Structural design",
-    "Year 3/Aircraft Structures/1"
+    "Year 3/Aircraft Structures/4 Beam as wing"
   ]
 }
