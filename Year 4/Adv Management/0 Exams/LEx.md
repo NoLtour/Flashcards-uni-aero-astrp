@@ -106,4 +106,56 @@ Back:
 END_CARD
 
 
+--------
+
+START_CARD
+Basic
+
+Define the two types of uncertainty.
+
+Back: 
+- Aleatory. Stochastic uncertainty, uncertainty that can be represented using a PDF.
+- Epistemic. Can't be modelled using a PDF as it reflects a lack of knowledge.
+
+END_CARD
+
+
+--------
+
+START_CARD
+Basic
+
+For this question, state the equation for the likely number of days late and likely cost of both cases.
+
+Back: 
+It's a uniform distribution, hence the probability density is $f(t)= \frac{1}{d_{l}-d_{e}}=k$
+$$ \begin{align}
+
+\bar{d} &= \int^{d_{L}}_{d_{e}} t f(t) \cdot dt &&\to&  \bar{d} &= k  \left[\frac{t^{2}}{2}\right]^{d_{L}}_{d_{e}} &&\to&  \bar{d} &= \frac{k}{2} (d_{l}^{2} - d_{e}^{2})\\\\
+
+\bar{c} &= \int^{d_{L}}_{0} c_{l}t f(t) \cdot dt &&\to&  \bar{c} &= c_{l} \left[\frac{t^{2}}{2}\right]^{d_{L}}_{0} &&\to&  \bar{c} &= \frac{c_{l} k (d_{l})^{2}}{2}
+\end{align} $$
+
+END_CARD
+
+
+
+
+--------
+
+START_CARD
+Basic
+
+State the 4 moral principles engineers need to uphold
+
+Back: 
+- Accuracy + Rigour - Engineers should apply their knowledge and skills to ensure accuracy and thoroughness in their work, ensuring that all designs and solutions meet the highest standards of quality and correctness.
+- Honesty + Integrity -  Engineers are expected to be truthful and transparent in their professional conduct, providing reliable information and avoiding any misleading or deceptive practices.
+- Respect for life and the public good - Engineers should prioritize the safety, health, and well-being of people and the environment, ensuring that their work benefits society and does not cause harm.
+- Responsible leadership, listening and informing - Engineers should take on leadership roles responsibly, listen to stakeholders, and provide accurate information to ensure informed decision-making, while promoting ethical practices within the profession.
+
+END_CARD
+
+
+
 
