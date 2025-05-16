@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 4/Spacecraft Instra/5 - Astronomy and Astrophysics/Ex.md",
+                "file": "Year 4/Orbital/Misc/Cards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ex"
+              "title": "Cards"
             }
           },
           {
@@ -165,8 +165,24 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "36544cca903a5622",
+  "active": "4e936da67470adb2",
   "lastOpenFiles": [
+    "Images/Pasted image 20250516123755.png",
+    "Images/Pasted image 20250516122714.png",
+    "Images/Pasted image 20250516122700.png",
+    "Images/Pasted image 20250516120309.png",
+    "Images/Pasted image 20250516120100.png",
+    "Images/Pasted image 20250516115523.png",
+    "Images/Pasted image 20250516115323.png",
+    "Images/Pasted image 20250516115312.png",
+    "Year 4/Orbital/Misc/TODO.md",
+    "Year 4/Orbital/Misc/Deez.md",
+    "Year 4/Orbital/Misc/Cards.md",
+    "Images/Pasted image 20250516113922.png",
+    "Images/Pasted image 20250516113152.png",
+    "Images/Pasted image 20250516113134.png",
+    "Year 4/Spacecraft Instra/5 - Astronomy and Astrophysics/Ex.md",
+    "Year 4/Orbital/Misc",
     "Year 4/Orbital/Slides/Chapter 1 - Week 2.pdf",
     "Year 4/Orbital/Slides/Chapter 1 - Week 1.pdf",
     "Year 4/Orbital/Slides/Chapter 8 - Week 2(1).pdf",
@@ -176,14 +192,7 @@
     "Year 4/Orbital/Slides/Chapter 6.pdf",
     "Year 4/Orbital/Slides/Chapter 5.pdf",
     "Year 4/Orbital/Slides/Chapter 4.pdf",
-    "Year 4/Orbital/Slides/Chapter 3.pdf",
-    "Year 4/Orbital/Slides/Chapter 2(1).pdf",
-    "Images/Pasted image 20250515192139.png",
-    "Images/Pasted image 20250515190908.png",
-    "Images/HURA_hexagonal_coded_aperture_mask_principle.svg.png",
-    "Images/Pasted image 20250515182515.png",
     "Year 4/Spacecraft Instra/4 - Microwave instruments/L20.md",
-    "Year 4/Spacecraft Instra/5 - Astronomy and Astrophysics/Ex.md",
     "Year 4/Spacecraft Instra/4 - Microwave instruments/L21.md",
     "Year 4/Spacecraft Instra/4 - Microwave instruments/L22.md",
     "Year 4/Spacecraft Instra/5 - Astronomy and Astrophysics/L29.md",
@@ -192,12 +201,6 @@
     "Year 4/Spacecraft Instra/5 - Astronomy and Astrophysics/L30.md",
     "Year 4/Spacecraft Instra/5 - Astronomy and Astrophysics/L33.md",
     "Year 4/Spacecraft Instra/5 - Astronomy and Astrophysics/L25.md",
-    "Images/Pasted image 20250515155611.png",
-    "Images/Pasted image 20250515155103.png",
-    "Images/Pasted image 20250515154921.png",
-    "Images/Pasted image 20250515154034.png",
-    "Images/Pasted image 20250515153940.png",
-    "Images/Pasted image 20250515153732.png",
     "Year 4/Spacecraft Instra/5 - Astronomy and Astrophysics/L26.md",
     "Year 4/Spacecraft Instra/4 - Microwave instruments/L24.md",
     "Year 4/Spacecraft Instra/4 - Microwave instruments/L23.md",
@@ -209,9 +212,6 @@
     "Year 4/Spacecraft Instra/2 - Instrument Resolution/L14.md",
     "Year 4/Spacecraft Instra/2 - Instrument Resolution/L13.md",
     "Year 4/Spacecraft Instra/2 - Instrument Resolution/L12.md",
-    "Year 4/Spacecraft Instra/2 - Instrument Resolution/L11.md",
-    "Year 4/Spacecraft Instra/2 - Instrument Resolution/L10.md",
-    "Year 4/Spacecraft Instra/2 - Instrument Resolution/L9.md",
-    "Year 4/Spacecraft Instra/2 - Instrument Resolution/L8.md"
+    "Year 4/Spacecraft Instra/2 - Instrument Resolution/L11.md"
   ]
 }
